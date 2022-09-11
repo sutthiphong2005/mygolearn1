@@ -2,7 +2,7 @@ package music
 
 import "fmt"
 
-func sing(){
+func Sing(){
 
 	fmt.Println("sing a song")
 }
